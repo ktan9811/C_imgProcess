@@ -1,9 +1,13 @@
 # GrayScale Summary KOR
 
 MyImageProcess 프로젝트에서 진행한 자체제작 C / python 기반의 영상처리 프로그램의 요약본
+<details>
+    <summary>
 
-<img src = "https://github.com/ktan9811/MFC_ImageProcess/assets/86091469/da8b9ecd-fd3e-42c0-bbe8-554eb9ced7cf">
+     <img src = "https://github.com/ktan9811/MFC_ImageProcess/assets/86091469/da8b9ecd-fd3e-42c0-bbe8-554eb9ced7cf">
 
+   </summary>
+</details>
 
 # GrayScale image Process
  [Intel] 엣지 AI S/W 아카데미에서 진행하는 개인 영상처리 프로젝트
